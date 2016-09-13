@@ -1,0 +1,28 @@
+{
+  "name": "admin-template-boilerplate",
+  "description": "Admin Template Boilerplate",
+  "main": "app.js",
+  "authors": [
+    "Santiago Benalcázar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "AdminLTE": "admin-lte#^2.3.6"
+  }
+}

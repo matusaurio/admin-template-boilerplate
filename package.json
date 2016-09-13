@@ -1,0 +1,25 @@
+{
+  "name": "admin-template-boilerplate",
+  "version": "1.0.0",
+  "description": "Admin Template Boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbcmh/admin-template-boilerplate.git"
+  },
+  "keywords": [
+    "angularjs",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Santiago Benalcázar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdbcmh/admin-template-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sdbcmh/admin-template-boilerplate#readme"
+}
